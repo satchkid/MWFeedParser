@@ -3,6 +3,7 @@
 #
 
 build/
+lib/
 *~.nib/
 *.moved-aside
 profile
